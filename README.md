@@ -1,3 +1,4 @@
+## 👩‍💻 About
 ```java
 import java.util.Map;
 
@@ -18,3 +19,5 @@ public class AboutMe {
     }
 }
 ```
+## 📊 Activity
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=narahsouzadev&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=narahsouzadev&layout=compact&langs_count=6&theme=transparent)
