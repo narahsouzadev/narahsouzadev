@@ -5,7 +5,7 @@ public class AboutMe {
     public static void main(String[] args) {
         Developer narah = Developer.builder()
             .name("Narah Souza")
-            .location("Brasília, DF - Brazil 🇧🇷")
+            .location("Brasília, Brazil")
             .education("Systems Analysis & Dev (Grad) | Project Management (Postgrad)")
             .currentFocus("Java Backend & Systems Architecture")
             .contacts(Map.of(
