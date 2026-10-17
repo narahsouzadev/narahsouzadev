@@ -7,7 +7,7 @@ public class AboutMe {
         Developer narah = Developer.builder()
             .name("Narah Souza")
             .location("Brasília, Brazil")
-            .education("Systems Analysis & Dev (Grad) | Project Management (Postgrad)")
+            .education("Bachelor's Degree in Software Engineering 🎓 In progress)")
             .currentFocus("Java Backend & Systems Architecture")
             .contacts(Map.of(
                 "linkedin", "linkedin.com/in/narahsouza",
